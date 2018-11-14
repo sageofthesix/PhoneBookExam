@@ -1,2 +1,2 @@
-# PhoneBookExam
+# PhoneBookProject
 Exam for programming class
